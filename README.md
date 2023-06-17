@@ -1,8 +1,9 @@
 # TP-maquinadebusca
 Trabalho prático para a matéria Programação e Desenvolvimento de Software II da UFMG para o primeiro semestre de 2023.
-Aluno: José Vinícius de Lima Massarico
-Matrícula: 2021037554
-Turma: TW
+
+Aluno: José Vinícius de Lima Massarico.
+Matrícula: 2021037554.
+Turma: TW.
 
 Este projeto implementa um programa que faz a indexação e recuperação de documentos ou uma "Máquina de busca".
 
